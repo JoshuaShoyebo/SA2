@@ -18,7 +18,7 @@ public class Management {
     }
 
     public void generateReports() {
-        System.out.println("Competito Report:");
+        System.out.println("Competitonn Report:");
         for (MyCompetitor competitor : competitors) {
             System.out.println(competitor.getFullDetails());
         }
